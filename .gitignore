@@ -1,3 +1,15 @@
+# Dossiers de build Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Fichiers de configuration de l'IDE
+.idea/
+.vscode/
+
+# Fichiers spécifiques à l'environnement
+application.properties
+application.yml
+
 # Compiled class file
 *.class
 
