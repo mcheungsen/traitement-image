@@ -1,5 +1,5 @@
 # Dossiers de build Maven
-/target/
+target/
 !.mvn/wrapper/maven-wrapper.jar
 
 # Fichiers de configuration de l'IDE
